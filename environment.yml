@@ -1,0 +1,22 @@
+# SFTF — Conda environment specification.
+#
+# Reproducible Python 3.10 environment for the SFTF fake-news-detection
+# pipeline. Python package versions are pinned in requirements.txt (the single
+# source of truth) and installed through pip inside this environment.
+#
+# Usage (run from the directory that contains requirements.txt):
+#   conda env create -f environment.yml
+#   conda activate sftf
+#   conda env update -f environment.yml --prune   # after editing requirements.txt
+
+name: sftf
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - -r requirements.txt

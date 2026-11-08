@@ -1,0 +1,32 @@
+
+torch==2.7.1
+
+# Scientific computing
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.6.1
+
+# Plotting
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Semantic features (BERT) and Trainer support
+transformers==4.46.3
+accelerate==1.6.0
+protobuf==5.29.4
+
+# Sentiment annotation (DeepSeek API) and Chinese text tools
+openai==1.76.0
+emoji==2.14.1
+snownlp==0.12.3
+
+# Crawler
+selenium==4.31.0
+requests==2.32.3
+
+# Utilities
+tqdm==4.67.1
+psutil==7.0.0
+thop==0.1.1.post2209072238
+openpyxl==3.1.5

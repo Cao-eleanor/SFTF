@@ -1,0 +1,57 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+
+# Trained model checkpoints & weights
+*.pth
+*.pt
+*.ckpt
+model/checkpoints/
+
+# Pretrained model weights (download bert-base-chinese / bert-base-uncased separately)
+model/pretrained/
+
+# MLM continue-pretraining output
+results/
+mlm_out/
+
+# Generated analysis figure / table outputs
+**/outputs/
+
+# Dataset raw samples (distributed separately; do not commit binaries)
+model/data/raw_data/*.xlsx
+model/data/raw_data/*.zip
+model/data/sentiment_data/*.xlsx
+model/data/metapath_data/*.xlsx
+model/data/splits_data/*.xlsx
+external_evaluation/*/raw_data/
+external_evaluation/*/sentiment_data/
+external_evaluation/*/splits_data/
+external_evaluation/*/metapath_data/
+external_evaluation/*/bert_feature/
+external_evaluation/*/checkpoints/
+
+# Credentials & sensitive files (API keys, login cookies)
+.env
+.env.*
+cookie.txt
+cookies.txt
+*.cookie
+*.pem
+*.key
+
+# OS noise
+.DS_Store
+Thumbs.db

@@ -1,0 +1,430 @@
+{
+  "description": "Existing outputs renamed without changing file contents; these are retained references, not results regenerated during cleanup.",
+  "files": [
+    {
+      "previous": "Metapath_Band_Energy_violin/band_energy_long_with_power.csv",
+      "current": "band_energy/outputs/band_energy_samples.csv",
+      "sha256": "42159395b41e6a099d8c07318a92723bbecc6460b9de168759ff084aa2d49c6d"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/NUV_best_by_absdelta_active.csv",
+      "current": "band_energy/outputs/band_energy_nuv_ranking.csv",
+      "sha256": "dfa3c7056a54410129ba3f9eee28a3fda6524a27cbca477c08b808c2825b1a63"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/NU_best_by_absdelta_active.csv",
+      "current": "band_energy/outputs/band_energy_nu_ranking.csv",
+      "sha256": "9307bcbd85a8437f95c01a77740644714765876cfbaa0b331842f1e4c3db455e"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/Top4_NU_and_Top4_NUV_2x4_active_violin.png",
+      "current": "band_energy/outputs/band_energy_distribution.png",
+      "sha256": "82ae663e358527f2b3dce0c6ce930e534c495d185c4406af950f30231c6e4bc9"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p00.png",
+      "current": "band_energy/outputs/channels/band_energy_ch00.png",
+      "sha256": "7f1003b1fc6c850e85fdb7091b0fbdd85a3271b6a5429bc12dbe061bc7bd0c49"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p01.png",
+      "current": "band_energy/outputs/channels/band_energy_ch01.png",
+      "sha256": "5a8fdb7c1061754622407c856a70b9ec4e702b4f20301d7fbd905f72a20f788a"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p02.png",
+      "current": "band_energy/outputs/channels/band_energy_ch02.png",
+      "sha256": "8cff32e9f1d3b53142aa4242427f1ccd286d92d4440286196c10c9eb6fd52439"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p03.png",
+      "current": "band_energy/outputs/channels/band_energy_ch03.png",
+      "sha256": "9ce21f47112a3eee79eee15a0bb3d922c4da808e0fb62624fc339e096f12d4d0"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p04.png",
+      "current": "band_energy/outputs/channels/band_energy_ch04.png",
+      "sha256": "0d75a7e1c78c8b8d7bd94e67ed42e24aca2df87c5569d3cfff9a982815b8fad0"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p05.png",
+      "current": "band_energy/outputs/channels/band_energy_ch05.png",
+      "sha256": "b86adb88961c75fcbe6658212599b47933432b8f731d070a101cb877aeb01bcd"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p06.png",
+      "current": "band_energy/outputs/channels/band_energy_ch06.png",
+      "sha256": "d1078e8c390566b7bb50f120318bc13210ad2c72eef1f9677b91bc39a7bec3f7"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p07.png",
+      "current": "band_energy/outputs/channels/band_energy_ch07.png",
+      "sha256": "245aeb31e2bc1403195eaf234918167c021dee4446bf16fe2f109e464a3c7b4c"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p08.png",
+      "current": "band_energy/outputs/channels/band_energy_ch08.png",
+      "sha256": "0082c097540dc133a4f55b300986a74a2e96694f57e7352a4d0695efc2b7fd30"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p09.png",
+      "current": "band_energy/outputs/channels/band_energy_ch09.png",
+      "sha256": "5de405959c04fcb910f77730f19fbe76e70810a5f34cda163edc1036dff7670a"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p10.png",
+      "current": "band_energy/outputs/channels/band_energy_ch10.png",
+      "sha256": "a4578749b2c8c226ac9a2686d0afb2f792bb2a3b5375052af3a6196e1e203562"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p11.png",
+      "current": "band_energy/outputs/channels/band_energy_ch11.png",
+      "sha256": "e374f2fb3b3091310fa123151cc51388bf0e6c330f86f0b2d64ab3b7429c23a6"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p12.png",
+      "current": "band_energy/outputs/channels/band_energy_ch12.png",
+      "sha256": "0663a0b2f072fd2adb6791c4f7880f7e5c3a2c439d59dfdc4d76a0d2c0922496"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p13.png",
+      "current": "band_energy/outputs/channels/band_energy_ch13.png",
+      "sha256": "ab748c114d7917fe6ae4b75049b63197b560fd17f2da2841198b2b8d08a194a9"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p14.png",
+      "current": "band_energy/outputs/channels/band_energy_ch14.png",
+      "sha256": "291d716295951748eaf6687147cc600c7541c0a19c4d496e91835532411a80ea"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p15.png",
+      "current": "band_energy/outputs/channels/band_energy_ch15.png",
+      "sha256": "9374a10af47a74b6455c4e02f70a46d797b11569651581ae616e00c62708e53a"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p16.png",
+      "current": "band_energy/outputs/channels/band_energy_ch16.png",
+      "sha256": "e3130978e0c2aa516dbd9c6095de395f39b66a428c9d45a0a0a25e30f5e7802f"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p17.png",
+      "current": "band_energy/outputs/channels/band_energy_ch17.png",
+      "sha256": "3ce656410407e8d69cff2438967fe84126699ac68afe28a9e7ca3b4f22887253"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p18.png",
+      "current": "band_energy/outputs/channels/band_energy_ch18.png",
+      "sha256": "93889ef2b83393a624da2fb221052093a3bab8d620378a056e86d5e36595e972"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p19.png",
+      "current": "band_energy/outputs/channels/band_energy_ch19.png",
+      "sha256": "9d13bb62a44fd20a3ea9a7e6d10b7e5623009e544b3355aad1a92c17ecc15c3d"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p20.png",
+      "current": "band_energy/outputs/channels/band_energy_ch20.png",
+      "sha256": "69e1d3dc19107019456cd4818961a7e7699025b479516fe9acae16ebae641755"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p21.png",
+      "current": "band_energy/outputs/channels/band_energy_ch21.png",
+      "sha256": "3d73183a11bae2f28253fedf1a8866f1a5c2b976a7234dbfc6fc7134f798fd3b"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p22.png",
+      "current": "band_energy/outputs/channels/band_energy_ch22.png",
+      "sha256": "4e5411aafc6c06dd200bf6ad630962d866d2c9c667e87638363a587f38910a4d"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p23.png",
+      "current": "band_energy/outputs/channels/band_energy_ch23.png",
+      "sha256": "8e7ed8b22b88b23ae33ca4aad567a05ec7d4be1985b0b83077bcf6b0d3a4efdb"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p24.png",
+      "current": "band_energy/outputs/channels/band_energy_ch24.png",
+      "sha256": "6154b789d25f9e9fea31f08f6e515ad5ddb7cdbd2f2104f60f1a8e00d8efc79b"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p25.png",
+      "current": "band_energy/outputs/channels/band_energy_ch25.png",
+      "sha256": "53757d313a571f08b9b8bba05a0993ae44e83cc3ab15a16e3f3275dc13b9aaa9"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p26.png",
+      "current": "band_energy/outputs/channels/band_energy_ch26.png",
+      "sha256": "667aa94093b6bacc998b92422e45976d0d731f4430e3d37888040da46c6780c7"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p27.png",
+      "current": "band_energy/outputs/channels/band_energy_ch27.png",
+      "sha256": "3b8f212eff12520568bf40b917a67c689f916d4e13ebf230c3cd486a0063d459"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p28.png",
+      "current": "band_energy/outputs/channels/band_energy_ch28.png",
+      "sha256": "77e74f9fee547eaae38dfe2727c0bab5dd85efa7fe403df5309f9ee4552081bc"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p29.png",
+      "current": "band_energy/outputs/channels/band_energy_ch29.png",
+      "sha256": "2a0bed40007724e170857a830c171444feeee17e1fba2648e5ea2629c1dd5ba5"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p30.png",
+      "current": "band_energy/outputs/channels/band_energy_ch30.png",
+      "sha256": "404769bc2de7a258cee1b71570082e9d8c4ce94c1b7ae73d55db9243b89cd1f7"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p31.png",
+      "current": "band_energy/outputs/channels/band_energy_ch31.png",
+      "sha256": "c7516ce50a1e068e34ea5b281508389a83d8d9b9f30b9d8cd60a17112f454f11"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p32.png",
+      "current": "band_energy/outputs/channels/band_energy_ch32.png",
+      "sha256": "93d22a1337246a23ea87e906440a4cb93ebe100761483a1dfa921836ce05f04b"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p33.png",
+      "current": "band_energy/outputs/channels/band_energy_ch33.png",
+      "sha256": "6830aebacf8e483eb7a3b5a8cdffb2795326507b1e005ec282d05fd38dcf4157"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p34.png",
+      "current": "band_energy/outputs/channels/band_energy_ch34.png",
+      "sha256": "7ae1a67281dcefb8e4adb99a4803c30482e7c1864a954f9d2477cb7a8c7c97ae"
+    },
+    {
+      "previous": "Metapath_Band_Energy_violin/violin_per_channel_active/violin_active_p35.png",
+      "current": "band_energy/outputs/channels/band_energy_ch35.png",
+      "sha256": "9cc2877e7c58d82f15756c5c318f71481afe9e8531ce62651a8f59d939059958"
+    },
+    {
+      "previous": "radar_outputs/test_highfreq_mean.png",
+      "current": "high_frequency/outputs/high_frequency_energy_radar.png",
+      "sha256": "bd57cf3f29b9b63714052c261159e07b34f0a27f108c288e7ec2b556433df2c3"
+    },
+    {
+      "previous": "radar_outputs/test_highfreq_selection_report.json",
+      "current": "high_frequency/outputs/high_frequency_energy_channels.json",
+      "sha256": "b21e3d357c769edd864b52747539e6e0f089a396ba44094b00163cc2a860607d"
+    },
+    {
+      "previous": "radar_outputs/test_mean.png",
+      "current": "low_frequency/outputs/low_frequency_energy_radar.png",
+      "sha256": "fdcf34eca7f619665a93bf230ee673b9d60847cb1e6a372557dff725fae7241d"
+    },
+    {
+      "previous": "radar_outputs/test_selection_report.json",
+      "current": "low_frequency/outputs/low_frequency_energy_channels.json",
+      "sha256": "e114c956c04a1281373d7c23961e0610fb4f4c935b80048bbf10d3ad64099ec5"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/ch00_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/paper_panels/prototype_deviation_ch00.png",
+      "sha256": "8741540e9d369a8d5bc539a315b2c25c4fd3482cf419499ba4af9dea75bf80f5"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/ch08_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/paper_panels/prototype_deviation_ch08.png",
+      "sha256": "3dd685c522e478b520a745738104e9234f2ed7ae193012c341a86f6b8e4a7b5a"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/ch16_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/paper_panels/prototype_deviation_ch16.png",
+      "sha256": "cc7218d6512cb19ee41c8890b42b970efe58ff65f8f5475658be48d8457da43f"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/ch32_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/paper_panels/prototype_deviation_ch32.png",
+      "sha256": "1433af852fda9759287645cf632d3e6b0d1913f8a3bef10d5532312acaf14914"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/combined_2x2.png",
+      "current": "prototype_deviation/outputs/paper_panels/prototype_deviation_examples.png",
+      "sha256": "aa00ea7f859cd72f97d68767cd243b5a9581d7c5db2c6604a1aaac8ad806d7a4"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch00_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch00.png",
+      "sha256": "8741540e9d369a8d5bc539a315b2c25c4fd3482cf419499ba4af9dea75bf80f5"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch01_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch01.png",
+      "sha256": "8f83ae8c227fb766cfb0dae45418b549b57f65519270f5865abeade810d6ebef"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch02_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch02.png",
+      "sha256": "ee6bb37099fe1e8538dc4174cd6af7237061d8bac377e1112470b7cf45ab2cbe"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch03_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch03.png",
+      "sha256": "6feadc5baff062dc388c8a423c5496fcb0d0218cbce722036b3664064552dd3b"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch04_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch04.png",
+      "sha256": "aef3092aca91ef4fbf943c71a05bb8b2b2dd66ca821b4265e012207d623d49d0"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch05_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch05.png",
+      "sha256": "da2ae8ec3f3539a002a414f67b1b6108d979811b58ce68441f0ffc4b029f739d"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch06_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch06.png",
+      "sha256": "37808b53d9f6d386924b8de3079f8b85792bc092ec88f7f64b6231a70a367f4e"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch07_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch07.png",
+      "sha256": "478a122af7d8ccefe5e85cc467e98bbac0410da66f9929b995c0cfee84df62e2"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch08_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch08.png",
+      "sha256": "3dd685c522e478b520a745738104e9234f2ed7ae193012c341a86f6b8e4a7b5a"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch09_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch09.png",
+      "sha256": "d19867a4fb7d0ee779a132dbc6dc143f60898365e90b831aee3d58bbf9c6c7ef"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch10_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch10.png",
+      "sha256": "6db6c6dcc2a7e2449d75a522fa1a6bf6507c318c20f4afdcf7f60356d2e0f130"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch11_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch11.png",
+      "sha256": "433edbe825495c0d3d63647add7078ae8e31b472c6a6d20989db77ad2a1aa87d"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch12_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch12.png",
+      "sha256": "faaae35ade8e272ce4a6a64abf1fb533a31b95e515c6b0319c31b64f72bc07c9"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch13_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch13.png",
+      "sha256": "1c552dfa6efad03a75090d5b9c9daa7fc8d73005456dd9ec183952de8548c7d9"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch14_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch14.png",
+      "sha256": "78819d5f58f91b018925ad39862509855438290de8a33162aafe082fb398828f"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch15_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch15.png",
+      "sha256": "8dc168ff0e9087931bbd3084844a5568c5bb28828560c1412e852c9e505d1267"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch16_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch16.png",
+      "sha256": "cc7218d6512cb19ee41c8890b42b970efe58ff65f8f5475658be48d8457da43f"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch17_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch17.png",
+      "sha256": "d2a2de88a0b4b3972b049b935d98a6c6dab7d3e1473cb10f07aa87c82384dd29"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch18_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch18.png",
+      "sha256": "a8cc7127b67be3bd66dd905eeedf76f6bf4fae15f76dd8ca733d83c2f987d5bb"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch19_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch19.png",
+      "sha256": "337fc4b1ebf810458dacae53d9f75abac3d17d2b2f648a1a72e2382121cf4963"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch20_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch20.png",
+      "sha256": "123c6f0f2701106d86132c10070d5096a24c3bb742535f230d7938573d50089c"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch21_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch21.png",
+      "sha256": "a565aa4e1880b1e14f152147bc312c04e3ea9cfe6812515a4effa992beca3e90"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch22_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch22.png",
+      "sha256": "7f4de00421b0663bf99e0d32f876876e7e7725f603d32ff6f42893e77b2806c9"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch23_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch23.png",
+      "sha256": "eb089809721f023efa4d45ae44a8ef7aab56f783209060a2b1cbad97791cc550"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch24_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch24.png",
+      "sha256": "51c65ef5ee0a242118431377510794e512ccb174da469042c7a79d94cb4774b1"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch25_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch25.png",
+      "sha256": "7f05d6c8c147449beab3bbeb7a593e2fc4f8aea481f6dad1c30db3c89b27b149"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch26_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch26.png",
+      "sha256": "b19a33152f308732cd86f1a139acdec1c4fbc99fc55d8af0f025062647423025"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch27_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch27.png",
+      "sha256": "024e8f6f5bdff9385e21ce5b8a287fbf322a80981ddcbf70318d05f0a773f225"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch28_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch28.png",
+      "sha256": "2abfe8f03f114c7b152d1975091a387e6af34097aa11149743a7ddfad2d99536"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch29_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch29.png",
+      "sha256": "bfa561be954fe371aab3b4109de20df1d5e1b4a80c1a760ea04aeb67cb965592"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch30_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch30.png",
+      "sha256": "31dde52eacf72d164a85b5e655daed4cc141d2588d2b21b076df8c7ba1fa8240"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch31_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch31.png",
+      "sha256": "ee429b0c11dbfb2fede96e7ce959fc6d366247283ee911c8a0f046d84099d286"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch32_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch32.png",
+      "sha256": "1433af852fda9759287645cf632d3e6b0d1913f8a3bef10d5532312acaf14914"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch33_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch33.png",
+      "sha256": "ec34ab99d560e5e5b5f141541e0510d4b0aa60c48cfaf91ef088198c7e2fff14"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch34_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch34.png",
+      "sha256": "526c94b54e70a70099c2abb5798bd0ec09a8a04809ec7c4ce56fd42cf160a690"
+    },
+    {
+      "previous": "Spectral_Prototype_Deviation/PerChannel_Spectral_Prototype_Deviation/ch35_proto_vs_test.png",
+      "current": "prototype_deviation/outputs/channels/prototype_deviation_ch35.png",
+      "sha256": "9e664ed30cd751e503e1cbd6a78f2b3d3c4e9268c64086441b013c633b8f8b62"
+    }
+  ]
+}
